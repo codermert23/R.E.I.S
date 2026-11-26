@@ -1,5 +1,8 @@
 # Reis
 ![R.E.I.S ekran görüntüsü](docs/ekran.png)
+
+
+
 Windows için sade, yerel ve token-tasarruflu sesli masaüstü asistanı. Ekranın sağında ince bir kenar çubuğu olarak durur: üstte hava durumu ve sistem kullanımı, ortada duruma göre renk değiştiren dönen küre, altında **Projeler / Günlük Plan / Program** düğmeleri. Notlarını (Markdown) ayrı, büyük yazılı bir pencerede sekmeler hâlinde açar; sorularına en fazla ~30 kelimelik kısa bir sesli cevap verir.
 
 *English: a minimal, local-first, token-frugal voice assistant sidebar for Windows (PySide6 + faster-whisper + Gemini free tier). Reads your Markdown notes, answers in one short spoken sentence. MIT licensed.*
