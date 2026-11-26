@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+*.log
+# Local secrets written by `elevenlabs onboard`
+/.env
+
+# gerçek şifre dosyaları asla yüklenmesin (şablon: ornek/)
+sifreler.txt
+*.sifre

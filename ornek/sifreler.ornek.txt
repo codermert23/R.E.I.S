@@ -1,0 +1,6 @@
+# Reis şifre dosyası şablonu. Her satır:  Ad: şifre
+# '#' ile başlayan satırlar ve boş satırlar yok sayılır.
+# Dosya düz metindir (şifrelenmez): yalnızca kendi bilgisayarında tut, GitHub'a yükleme.
+E-Devlet: xxxxxx
+LoL: yyyyyyy
+Steam: zzzzzzz
